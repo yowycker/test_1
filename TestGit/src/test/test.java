@@ -6,5 +6,6 @@ public class test {
 	}
 	public static void main(String[] args){
 		test t = new test();
+		test t2 = new test();
 	}
 }
